@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+astropy
+astroquery
+scikit-image
+aplpy
